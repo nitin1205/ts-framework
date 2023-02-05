@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "gjk",
-      "age": 56
+      "name": "New name",
+      "age": 101
     },
     {
       "name": "New Record",
